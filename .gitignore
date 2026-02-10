@@ -2,8 +2,10 @@
 node_modules/
 package-lock.json
 
-# Environment variables
+# Environment variables (keep .env.example)
 .env
+backend/.env
+frontend/.env
 
 # Build outputs
 dist/
