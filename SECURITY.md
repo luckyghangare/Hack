@@ -232,11 +232,12 @@ npm audit
 ✅ CORS enabled
 ✅ No plain text password storage
 ✅ Protected API routes
+✅ Rate limiting on API endpoints
+✅ Stricter rate limiting on authentication routes
 
 ## Security Best Practices to Implement
 
 ⚠️ HTTPS enforcement in production
-⚠️ Rate limiting on API endpoints
 ⚠️ Input validation and sanitization
 ⚠️ Password strength requirements
 ⚠️ Two-factor authentication for admin
